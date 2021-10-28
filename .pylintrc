@@ -1,0 +1,9 @@
+[DEFAULT]
+disable=
+    missing-docstring,
+    invalid-name,
+    global-statement,
+    too-many-locals,
+    too-many-statements,
+    too-many-branches,
+    bare-except
